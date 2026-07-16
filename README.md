@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/zerox077">
-    <img src="https://komarev.com/ghpvc/?username=Amit Simu&style=flat-square&color=22c55e&label=PROFILE+VIEWS" />
+    <img src="https://komarev.com/ghpvc/?username=amitsimu&style=flat-square&color=22c55e&label=PROFILE+VIEWS" />
   </a>
   <a href="https://www.linkedin.com/in/amitsimu">
     <img src="https://img.shields.io/badge/LinkedIn-0b0e16?style=flat-square&logo=linkedin&logoColor=22c55e" />
@@ -40,8 +40,5 @@ ask_me_about:
   - Test Automation Framework - Cypress
   - Web Application and API Security
 ```
-<!---
-amitsimu/amitsimu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
